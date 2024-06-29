@@ -1,0 +1,13 @@
+CustomerID,FirstName,LastName,AveragePurchaseValue,PurchaseFrequency,FirstPurchaseDate,LastPurchaseDate,TotalValue
+1,Praveen,Sharma,120.5,5,01-01-2021,01-01-2023,600
+2,Rajesh,Verma,150,7,15-06-2020,15-06-2023,1050
+3,yogesh,Mishra,200,10,20-11-2019,25-01-2023,300
+4,Ram,Patil,75,4,25-02-2022,25-02-2023,300
+5,Laxman,Joshi,180,8,10-08-2021,25-01-2023,1440
+6,Nitin,Gour,220,6,05-12-2020,30-03-2023,1200
+7,Shravan,Kumar,100,12,30-03-2019,30-03-2023,1200
+8,Pavan,Kapi,120,9,22-08-2020,22-07-2023,1170
+9,Siddhu,Neema,90,3,01-11-2021,01-11-2023,270
+10,Gourav,Panchal,160,5,15-01-2020,15-01-2023,800
+11,Vidhan,Tayade,280,12,15-02-2020,16-01-2023,1600
+,,,,,,,
